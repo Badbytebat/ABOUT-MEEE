@@ -64,10 +64,32 @@
 ---
 
 ### 🎯 Featured Projects  
-> *(Uploading soon as GitHub repos…)*  
 
-📌 **Voiceprint — Gender Prediction from Voice**  
-📌 **Order Automation for USA Clients**  
+📍 **Netflix Watch Analysis**  
+Exploring content trends, ratings & categories analysis using visualizations  
+🛠 Python • Pandas • Matplotlib • Jupyter  
+🔗 Repo: https://github.com/Badbytebat/netflix-watch-analysis  
+
+📍 **YouTube Trending Analysis**  
+Uncovering what makes videos go viral; category & engagement analytics  
+🛠 Python • Data Cleaning • Plotting  
+🔗 Repo: https://github.com/Badbytebat/youtube-trending-analysis  
+
+📍 **Spotify EDA**  
+Understanding music popularity patterns & audio features correlation  
+🛠 Python • Seaborn • Feature Analysis  
+🔗 Repo: https://github.com/Badbytebat/spotify-eda  
+
+📍 **Voiceprint — Gender Prediction**  
+Machine Learning model: Predict gender using voice features  
+🛠 Python • ML • Sklearn • Classification  
+🔗 Repo: https://github.com/Badbytebat/Voiceprint-Gender-Prediction  
+
+📍 **CampusPass**  
+Web tool for student access — lightweight & functional  
+🛠 JavaScript • Web Dev  
+🔗 Repo: https://github.com/Badbytebat/CampusPass  
+
 
 ---
 
