@@ -1,11 +1,17 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=25&pause=1500&color=6600FF&multiline=true&width=450&height=90&lines=Hi+I'm+Ritesh+Manandhar;Aspiring+Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=25&pause=1500&color=FF00FF&multiline=true&width=480&height=90&lines=Hi+I'm+Ritesh+Manandhar;Aspiring+Data+Scientist;Gamer+%7C+Builder+%7C+Learner)](https://git.io/typing-svg)
 
 # 🦇 Ritesh — Data Science Aspirant  
 🌟 Turning raw data into intelligent decisions  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Badbytebat&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+
+<p>
+<img src="https://img.shields.io/badge/Data%20Science%20Aspirant-FF00FF?style=for-the-badge&logo=python&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/BCA%20Student-00FFFF?style=for-the-badge&logo=graduation-cap&logoColor=000000" />
+<img src="https://img.shields.io/badge/Single%20Player%20Gamer-00FF7F?style=for-the-badge&logo=steam&logoColor=000000" />
+</p>
 
 </div>
 
@@ -65,29 +71,33 @@
 
 ### 🎯 Featured Projects  
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Badbytebat/netflix-watch-analysis">
-<img src="https://img.shields.io/badge/📊 Netflix Watch Analysis-000000?style=for-the-badge&logo=netflix&logoColor=E50914" />
+<img src="https://img.shields.io/badge/📊 Netflix Watch Analysis-8A2BE2?style=for-the-badge&logo=netflix&logoColor=E50914">
 </a>
+<br><br>
 
 <a href="https://github.com/Badbytebat/youtube-trending-analysis">
-<img src="https://img.shields.io/badge/🎥 YouTube Trending Analysis-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/🎥 YouTube Trending Analysis-FF005D?style=for-the-badge&logo=youtube&logoColor=ffffff">
 </a>
+<br><br>
 
 <a href="https://github.com/Badbytebat/spotify-eda">
-<img src="https://img.shields.io/badge/🎧 Spotify EDA-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+<img src="https://img.shields.io/badge/🎧 Spotify EDA-00F0FF?style=for-the-badge&logo=spotify&logoColor=000000">
 </a>
+<br><br>
 
 <a href="https://github.com/Badbytebat/Voiceprint-Gender-Prediction">
-<img src="https://img.shields.io/badge/🎤 Voiceprint ML Model-6A0DAD?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/🎤 Voiceprint ML Model-00FFAA?style=for-the-badge&logo=python&logoColor=000000">
 </a>
+<br><br>
 
 <a href="https://github.com/Badbytebat/CampusPass">
-<img src="https://img.shields.io/badge/🛂 CampusPass Web App-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/🛂 CampusPass Web App-7D00FF?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -98,7 +108,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" width="45px" />
 </a>
 <a href="https://tinyurl.com/bytegenosis">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=ffffff" />
 </a>
 </p>
 
