@@ -4,3 +4,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Badbytebat)](https://github.com/Badbytebat/github-profile-trophy)
 
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Badbytebat)](https://open.spotify.com/user/Badbytebat)
