@@ -65,31 +65,29 @@
 
 ### 🎯 Featured Projects  
 
-📍 **Netflix Watch Analysis**  
-Exploring content trends, ratings & categories analysis using visualizations  
-🛠 Python • Pandas • Matplotlib • Jupyter  
-🔗 Repo: https://github.com/Badbytebat/netflix-watch-analysis  
+<p align="center">
 
-📍 **YouTube Trending Analysis**  
-Uncovering what makes videos go viral; category & engagement analytics  
-🛠 Python • Data Cleaning • Plotting  
-🔗 Repo: https://github.com/Badbytebat/youtube-trending-analysis  
+<a href="https://github.com/Badbytebat/netflix-watch-analysis">
+<img src="https://img.shields.io/badge/📊 Netflix Watch Analysis-000000?style=for-the-badge&logo=netflix&logoColor=E50914" />
+</a>
 
-📍 **Spotify EDA**  
-Understanding music popularity patterns & audio features correlation  
-🛠 Python • Seaborn • Feature Analysis  
-🔗 Repo: https://github.com/Badbytebat/spotify-eda  
+<a href="https://github.com/Badbytebat/youtube-trending-analysis">
+<img src="https://img.shields.io/badge/🎥 YouTube Trending Analysis-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
 
-📍 **Voiceprint — Gender Prediction**  
-Machine Learning model: Predict gender using voice features  
-🛠 Python • ML • Sklearn • Classification  
-🔗 Repo: https://github.com/Badbytebat/Voiceprint-Gender-Prediction  
+<a href="https://github.com/Badbytebat/spotify-eda">
+<img src="https://img.shields.io/badge/🎧 Spotify EDA-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
 
-📍 **CampusPass**  
-Web tool for student access — lightweight & functional  
-🛠 JavaScript • Web Dev  
-🔗 Repo: https://github.com/Badbytebat/CampusPass  
+<a href="https://github.com/Badbytebat/Voiceprint-Gender-Prediction">
+<img src="https://img.shields.io/badge/🎤 Voiceprint ML Model-6A0DAD?style=for-the-badge&logo=python&logoColor=white" />
+</a>
 
+<a href="https://github.com/Badbytebat/CampusPass">
+<img src="https://img.shields.io/badge/🛂 CampusPass Web App-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+</a>
+
+</p>
 
 ---
 
