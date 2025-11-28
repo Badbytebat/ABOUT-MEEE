@@ -104,14 +104,6 @@
 
 ---
 
-<div align="center">
-
-### 🐍 Contribution Snake Animation  
-<img src="https://raw.githubusercontent.com/Badbytebat/Badbytebat/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" width="100%">
-<img src="https://raw.githubusercontent.com/Badbytebat/Badbytebat/output/github-contribution-grid-snake.svg#gh-light-mode-only" width="100%">
-
----
-
 ### 🦇 Becoming a better Bat — one dataset at a time 💜  
 ⭐ If something helped you, drop a star!
 
