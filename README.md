@@ -5,4 +5,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Badbytebat)](https://github.com/Badbytebat/github-profile-trophy)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=25&pause=1500&color=6600FF&multiline=true&width=439&height=81&lines=Hi+I'm+Ritesh+An+Aspiring+Data+Scientist+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Doto&weight=900&size=25&pause=1500&color=6600FF&multiline=true&width=439&height=81&lines=Hey!+I’m+Ritesh+,+a+data+science+learner+turning+messy+data+into+smart+decisions+📊+)](https://git.io/typing-svg)
